@@ -17,6 +17,6 @@ onnxoptimizer
 fairseq==0.12.2
 librosa==0.8.1
 tensorboard
-PyQt5
+#PyQt5
 huggingface_hub
 datasets

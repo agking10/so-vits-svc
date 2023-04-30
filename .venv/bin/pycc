@@ -1,0 +1,3 @@
+#!/Users/agking10/Code/so-vits-svc/.venv/bin/python3
+from numba.pycc import main
+main()
