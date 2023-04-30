@@ -20,3 +20,4 @@ tensorboard
 #PyQt5
 huggingface_hub
 datasets
+pydub
